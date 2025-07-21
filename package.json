@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "lint": "textlint ."
+  },
+  "devDependencies": {
+    "textlint": "^15.2.0",
+    "textlint-rule-preset-wp-docs-ja": "github:jawordpressorg/textlint-rule-preset-wp-docs-ja"
+  }
+}
